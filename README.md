@@ -1,0 +1,2 @@
+# IDEAGITTEST
+测试IDEA中GIT的使用
